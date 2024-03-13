@@ -81,9 +81,10 @@ button:hover {
 }
 
 
-img {
+.profile {
     border-radius: 50%;
     width: 20%;
+    border: 10px solid #0080ff
 }
 
 /*Loading animation*/
@@ -143,4 +144,6 @@ th {
     linear-gradient(#0080ff, #00bfff);
     border-radius: 25px;
 }
+
+
 
